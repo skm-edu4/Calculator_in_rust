@@ -1,7 +1,6 @@
-**Calculator**
+##Calculator
 
 I have fully vibe coded calculator in similar theme of mac calculator app. The app is fully written in rust.
-
 Any suggestion or issue, please let me know.
 
 ## Features
