@@ -1,3 +1,9 @@
-/targe42
-.gitignore
+/target
 .DS_Store
+*.log
+nohup.out
+*.rs.bk
+.idea/
+.vscode/
+*.dSYM/
+/INTERVIEW.md
